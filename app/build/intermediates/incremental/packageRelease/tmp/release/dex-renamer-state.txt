@@ -1,0 +1,4 @@
+#Mon Jul 08 14:30:11 CST 2019
+base.0=/work/android/devicein/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
